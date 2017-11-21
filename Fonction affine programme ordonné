@@ -18,7 +18,7 @@
 		//cette fonction calcule la fonction affine c=ax+b.//
 		//entrée:x un nombre réel représentant l'antécédant de la fonction, a un nombre entier représentant le coef.//
 		//sortie:c un nombre réel image de x.//
-		function affiche(){
+		function métier(){
 		for(var i=0;i<10;i++){
 			console.log(i)
 			a = document.getElementById("input1").value
